@@ -24,5 +24,13 @@ Welcome to Photo Harbour, a versatile photo album application built with the cap
 - Ensures data persistence and accessibility across devices.
 
 
+# Technologies Used
+  - React
+  - Cloud Firestore
+  - React-Toastify
+
+
+
+
 
 # Happy photo album organizing with Photo Harbour! 📸⚓
